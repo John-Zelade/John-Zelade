@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @John-Zelade
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-John-Zelade/John-Zelade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m John Zelade Higo
+👀 I’m interested in web development, building scalable applications, and working with modern frameworks and technologies.
+🌱 Currently learning: Node.js, Express.js, React.js, Laravel, MySQL, and cloud technologies.
+💞️ Looking to collaborate on: Full-stack web development, microservices.
