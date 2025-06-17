@@ -25,3 +25,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-zelade&show_icons=true&locale=en&layout=compact" alt="john-zelade" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=john-zelade&show_icons=true&locale=en" alt="john-zelade" /></p>
+
+## ⏳ WakaTime Stats
+<!-- Replace johnzelade with your actual WakaTime username -->
+<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=john-zelade&layout=compact&theme=default" alt="WakaTime Stats" /></p>
+
