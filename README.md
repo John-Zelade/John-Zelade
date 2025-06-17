@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=john-zelade&show_icons=true&locale=en" alt="john-zelade" /></p>
 
-
