@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm John Zelade</h1>
-<h3 align="center">A passionate full-stack web developer</h3>
+<h1 align="left">👋 Hi there, I'm John Zelade</h1>
+<h3 align="left">💻 Junior Software Engineer at Hiraya Tech Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=john-zelade&label=Profile%20views&color=0e75b6&style=flat" alt="john-zelade" /> </p>
 
