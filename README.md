@@ -4,3 +4,9 @@
 💞️ Looking to collaborate on: Full-stack web development, microservices.
 
 
+## 📩 Contact Me
+📧 Email: johnzeladehigo@gmail.com
+📘 Facebook: https://web.facebook.com/johnzeleyd/
+💼 LinkedIn: www.linkedin.com/in/john-zelade-higo
+🌐 Portfolio: https://dev-zee-portfolio.vercel.app/
+
